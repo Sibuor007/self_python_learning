@@ -1,4 +1,6 @@
+# taking amount of investment from user
 invest_amount = input("Enter investment amount:")
+# taking investement rate from user
 rate = input("Enter Investment rate: ")
 
 # typecasting input from user to float
