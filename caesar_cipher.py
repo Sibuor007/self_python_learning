@@ -1,6 +1,6 @@
 import string
 """
-module to create a caesar's cipher
+module to create a caesar's cipher: with an encrypt and decrypt function
 """
 # creating a list of all alphabetical characters in lowercase
 alphabet = list(string.ascii_lowercase)
